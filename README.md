@@ -7,6 +7,4 @@ The app developed App of the assignment is avalilable at: https://mostafafarouk.
 
 ui.R and server.R file for Shiny App is available at https://github.com/mostaafafarouk/Dataproducts
 
-The presentation is available at: ??
-
-ui.R and server.R Files for the presentation are avalilable on the GitHub: ??
+The presentation is available at: http://rpubs.com/mostafafarouk/bestcar
